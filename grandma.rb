@@ -12,4 +12,9 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-def
+def speak_to_grandma(greeting)
+  if greeting == " I LOVE YOU GRANDMA!"
+    "I LOVE YOU TOO PUMPKIN!"
+    
+  end
+end
